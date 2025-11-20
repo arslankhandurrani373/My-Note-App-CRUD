@@ -1,0 +1,39 @@
+#form{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#sticky{
+    height: 30px;
+    width: 30px;
+}
+#note{
+    height: 30px;
+    width: 30px;
+}
+#text{
+     height: 30px;
+    width: 30px;
+}
+
+ #stick{
+    height: 40px;
+    width: 40px;
+}
+#login_body{
+background:url(icon/bg.png) ;
+display: fixed;
+
+}
+#ps{
+     height: 30px;
+    width: 30px;
+}
+#em{
+     height: 30px;
+    width: 30px;
+}
+#nm{
+     height: 30px;
+    width: 30px;
+}
